@@ -1,4 +1,4 @@
-# AutoVault - Premium Car Marketplace
+# CarsVault - Premium Car Marketplace
 
 A modern, responsive car marketplace built with Next.js 14, TypeScript, and Tailwind CSS.
 
@@ -70,5 +70,5 @@ The project uses CSS custom properties for theming. You can customize colors and
 
 ## License
 
-This project is for demonstration purposes.
+This project is MIT licensed.
 
